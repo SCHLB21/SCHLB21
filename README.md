@@ -1,1 +1,4 @@
-<div class="tenor-gif-embed" data-postid="22048916" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pudge-dance-gif-22048916">Pudge Dance GIF</a>from <a href="https://tenor.com/search/pudge+dance-gifs">Pudge Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glazkoff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazkoff&show_icons=true&hide_border=true&layout=compact"/>
+</p>
