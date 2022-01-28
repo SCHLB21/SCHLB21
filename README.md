@@ -1,1 +1,2 @@
-<img height="777em" src="https://c.tenor.com/QgIDoCQ7NlgAAAAC/pudge-walk-transparent-background-pudge.gif"/>
+<img height="777em" src="https://gfycat.com/someacademiccooter"/>
+<img src="https://tenor.com/bEF5Q.gifr"/>
